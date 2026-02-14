@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "noisiq"
+version = "0.0.1"
+description = "Noise visualization/simulation toolkit for quantum circuits."
+requires-python = ">=3.10"
+dependencies = ["numpy", "matplotlib"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
