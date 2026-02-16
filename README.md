@@ -3,10 +3,8 @@ noisiq is a visual quantum-circuit playground that lets you see noise in action.
 
 EXAMPLE : 
 
-![Noisiq-Example](https://github.com/user-attachments/assets/f21d3b45-6cc1-46ec-916f-31b68e427df0)
-![Noisiq-Example](https://github.com/user-attachments/assets/f21d3b45-6cc1-46ec-916f-31b68e427df0)
-![Noisiq-Example](https://github.com/user-attachments/assets/48661167-12e5-4a88-9394-b0e6ffd3c553)
-![Noisiq-Example](https://github.com/user-attachments/assets/48661167-12e5-4a88-9394-b0e6ffd3c553)
+[Noisiq-Example](https://github.com/user-attachments/assets/f21d3b45-6cc1-46ec-916f-31b68e427df0)
+
 
 
 ------ In Development -------  
